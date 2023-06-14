@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a desktop application for Revolt built on Electron.
+This is a modified desktop application for Revolt built on Electron to use with my selfhosted Revolt server.
 
 ## Stack
 
@@ -13,7 +13,7 @@ This is a desktop application for Revolt built on Electron.
 
 ### Revolt Desktop
 
--   [Revolt Desktop Issue Board](https://github.com/revoltchat/desktop/issues)
+-   [Revolt Desktop original repo](https://github.com/revoltchat/desktop)
 
 ### Revolt
 
@@ -26,7 +26,7 @@ This is a desktop application for Revolt built on Electron.
 Get Revolt Desktop up and running locally.
 
 ```
-git clone https://github.com/revoltchat/desktop
+git clone https://github.com/revoltchat/desktop.git
 cd desktop
 yarn
 yarn build:bundle
